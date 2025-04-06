@@ -5,7 +5,7 @@ info:
   description: API Gateway that routes to User, Search, and File APIs.
 
 servers:
-  - url: https://localhost:32806
+  - url: https://localhost:8081
 
 components:
   securitySchemes:
